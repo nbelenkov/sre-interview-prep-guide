@@ -68,44 +68,58 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 
 ## Containers
 
-* [Introduction to Docker and Containers](http://container.training/intro-selfpaced.yml.html)
-* [Containers Patterns](https://l0rd.github.io/containerspatterns)
-* [Docker Container Anti Patterns](https://blog.couchbase.com/docker-container-anti-patterns/)
+| Course Name  | Progress |
+| ------------- | ------------- |
+| [Introduction to Docker and Containers](http://container.training/intro-selfpaced.yml.html) | :x:  |
+| [Containers Patterns](https://l0rd.github.io/containerspatterns)  | :x:  |
+| [Multi-tier load-balancing with Linux](https://vincent.bernat.ch/en/blog/2018-multi-tier-loadbalancer) | :x:  |
+
 
 ## Kubernetes
 
-* [Deploying and Scaling Microservices with Docker and Kubernetes](http://container.training/kube-selfpaced.yml.html)
-* [What happens when ... Kubernetes edition!](https://github.com/jamiehannaford/what-happens-when-k8s/blob/master/README.md)
-* [Kubernetes Production Patterns](https://github.com/gravitational/workshop/blob/master/k8sprod.md)
-* [Kubernetes production best practices](https://learnk8s.io/production-best-practices)
-* [A Guide to the Kubernetes Networking Model](https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model)
+| Course Name  | Progress |
+| ------------- | ------------- |
+| [Deploying and Scaling Microservices with Docker and Kubernetes](http://container.training/kube-selfpaced.yml.html) | :x:  |
+| [What happens when ... Kubernetes edition!](https://github.com/jamiehannaford/what-happens-when-k8s/blob/master/README.md)  | :x:  |
+| [Kubernetes Production Patterns](https://github.com/gravitational/workshop/blob/master/k8sprod.md) | :x:  |
+| [Kubernetes production best practices](https://learnk8s.io/production-best-practices)  | :x:  |
+| [A Guide to the Kubernetes Networking Model](https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model) | :x:  |
 
 ## Infrastructure as code / Configuration management
 
-* [Terraform](https://learn.hashicorp.com/terraform)
-* [Ansible](https://github.com/leucos/ansible-tuto)
+| Course Name  | Progress |
+| ------------- | ------------- |
+| [Terraform](https://learn.hashicorp.com/terraform) | :x:  |
+| [Ansible](https://github.com/leucos/ansible-tuto)  | :x:  |
 
 ## CI/CD
 
-* [7 Pipeline Design Patterns for Continuous Delivery](https://www.singlestoneconsulting.com/blog/7-pipeline-design-patterns-for-continuous-delivery)
-* [CI/CD patterns](https://continuousdelivery.com/implementing/patterns)
-* [Six Strategies for Application Deployment](https://thenewstack.io/deployment-strategies)
+| Course Name  | Progress |
+| ------------- | ------------- |
+| [7 Pipeline Design Patterns for Continuous Delivery](https://www.singlestoneconsulting.com/blog/7-pipeline-design-patterns-for-continuous-delivery) | :x:  |
+| [CI/CD patterns](https://continuousdelivery.com/implementing/patterns)  | :x:  |
+| [Six Strategies for Application Deployment](https://thenewstack.io/deployment-strategies) | :x:  |
+
 
 ## Clouds
 
-* [The Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
+| Course Name  | Progress |
+| ------------- | ------------- |
+| [The Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws) | :x:  |
 
 ## Programming
 
 ### Go (Golang)
 
-* [A tour of Go](https://tour.golang.org)
-* [Go by Example](https://gobyexample.com)
-* [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
-* [Getting up and running with Go](http://www.golangprograms.com)
-* [Effective Go](https://golang.org/doc/effective_go.html)
-* [Go Design Patterns](https://github.com/tmrts/go-patterns)
-* [Go Memory Management](https://povilasv.me/go-memory-management)
+| Course Name  | Progress |
+| ------------- | ------------- |
+| [A tour of Go](https://tour.golang.org) | :x:  |
+| [Go by Example](https://gobyexample.com)  | :x:  |
+| [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/) | :x:  |
+| [Getting up and running with Go](http://www.golangprograms.com)  | :x:  |
+| [Effective Go](https://golang.org/doc/effective_go.html) | :x:  |
+| [Go Design Patterns](https://github.com/tmrts/go-patterns)  | :x:  |
+| [Go Memory Management](https://povilasv.me/go-memory-management) | :x:  |
 
 ### Big O Notation, Algorithms and Data Structures
 
