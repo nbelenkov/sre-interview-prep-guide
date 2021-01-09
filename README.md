@@ -18,7 +18,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 | [An introduction to the Linux boot and startup processes](https://opensource.com/article/17/2/linux-boot-and-startup) | :x:  |
 | [What happens when we turn on computer?](https://www.cdn.geeksforgeeks.org/what-happens-when-we-turn-on-computer)  | :x:  |
 | [What happens when we turn on computer?](https://leetcode.com/discuss/interview-question/125107/What-happens-when-we-turn-on-computer)| :x:  |
-| [From Power up to login prompt](http://www.scott-a-s.com/files/linux_boot.pdf) | :heavy_check_mark: |
+| [From Power up to login prompt](http://www.scott-a-s.com/files/linux_boot.pdf) | :x: |
 
 
 ### Filesystem
@@ -28,7 +28,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 | [Understanding Inodes](https://syedali.net/2015/02/08/understanding-inodes) | :x:  |
 | [Understand UNIX / Linux Inodes Basics with Examples](https://www.thegeekstuff.com/2012/01/linux-inodes)  | :x:  |
 | [Understanding proc filesystem](https://syedali.net/2013/08/20/understanding-proc-filesystem) | :x:  |
-| [Common Mount Options](https://syedali.net/2015/01/06/common-mount-options) | :heavy_check_mark: |
+| [Common Mount Options](https://syedali.net/2015/01/06/common-mount-options) | :x: |
 | [Understanding Linux filesystems: ext4 and beyond](https://opensource.com/article/18/4/ext4-filesystem) | :x:  |
 
 
@@ -39,7 +39,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 | [Explain the basics of Linux kernel](http://learnlinuxconcepts.blogspot.com/2014/03/explain-basics-of-linux-kernel.html) | :x:  |
 | [Kernel Space and User Space](http://learnlinuxconcepts.blogspot.com/2014/02/kernel-space-and-user-space.html)  | :x:  |
 | [Linux Kernel Process Management](http://learnlinuxconcepts.blogspot.com/2014/03/process-management.html) | :x:  |
-| [Linux Addressing](http://learnlinuxconcepts.blogspot.com/2014/02/linux-addressing.html) | :heavy_check_mark: |
+| [Linux Addressing](http://learnlinuxconcepts.blogspot.com/2014/02/linux-addressing.html) | :x: |
 | [Linux Kernel Memory Management](http://learnlinuxconcepts.blogspot.com/2014/02/linux-memory-management.html) | :x:  |
 | [STACK AND HEAP](http://learnlinuxconcepts.blogspot.com/2014/02/stack-and-heap.html)  | :x:  |
 | [Paging and Segmentation](http://learnlinuxconcepts.blogspot.com/2014/02/paging-and-segmentation.html) | :x:  |
