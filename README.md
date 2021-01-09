@@ -1,6 +1,6 @@
 # Site Reliability Engineer (SRE) Interview Preparation Guide
 
-My progress preparing for my SRE internship interviews:
+My progress (:x: and :heavy_check_mark:) preparing for my SRE internship interviews:
 
 This repository is an attempt to consolidate useful resources for Site Reliability Engineer (SRE) interview preparation.
 
@@ -23,39 +23,48 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 
 ### Filesystem
 
-* [Understanding Inodes](https://syedali.net/2015/02/08/understanding-inodes)
-* [Understand UNIX / Linux Inodes Basics with Examples](https://www.thegeekstuff.com/2012/01/linux-inodes)
-* [Understanding proc filesystem](https://syedali.net/2013/08/20/understanding-proc-filesystem)
-* [Common Mount Options](https://syedali.net/2015/01/06/common-mount-options)
-* [Understanding Linux filesystems: ext4 and beyond](https://opensource.com/article/18/4/ext4-filesystem)
+| Course Name  | Progress |
+| ------------- | ------------- |
+| [Understanding Inodes](https://syedali.net/2015/02/08/understanding-inodes) | :x:  |
+| [Understand UNIX / Linux Inodes Basics with Examples](https://www.thegeekstuff.com/2012/01/linux-inodes)  | :x:  |
+| [Understanding proc filesystem](https://syedali.net/2013/08/20/understanding-proc-filesystem) | :x:  |
+| [Common Mount Options](https://syedali.net/2015/01/06/common-mount-options) | :heavy_check_mark: |
+| [Understanding Linux filesystems: ext4 and beyond](https://opensource.com/article/18/4/ext4-filesystem) | :x:  |
+
 
 ### Kernel
 
-* [Explain the basics of Linux kernel](http://learnlinuxconcepts.blogspot.com/2014/03/explain-basics-of-linux-kernel.html)
-* [Kernel Space and User Space](http://learnlinuxconcepts.blogspot.com/2014/02/kernel-space-and-user-space.html)
-* [Linux Kernel Process Management](http://learnlinuxconcepts.blogspot.com/2014/03/process-management.html)
-* [Linux Addressing](http://learnlinuxconcepts.blogspot.com/2014/02/linux-addressing.html)
-* [Linux Kernel Memory Management](http://learnlinuxconcepts.blogspot.com/2014/02/linux-memory-management.html)
-* [STACK AND HEAP](http://learnlinuxconcepts.blogspot.com/2014/02/stack-and-heap.html)
-* [Paging and Segmentation](http://learnlinuxconcepts.blogspot.com/2014/02/paging-and-segmentation.html)
-* [Linux Kernel System Calls](http://learnlinuxconcepts.blogspot.com/2014/02/system-calls.html)
-* [The Virtual Filesystem](http://learnlinuxconcepts.blogspot.com/2014/10/the-virtual-filesystem.html)
-* [Concurrency and Race Conditions](http://learnlinuxconcepts.blogspot.com/2014/07/concurrency-and-race-conditions.html)
-* [Memory Leak](https://stackoverflow.com/questions/312069/the-best-memory-leak-definition)
-* [What is a kernel Panic?](http://learnlinuxconcepts.blogspot.com/2014/07/what-is-kernel-panic.html)
+| Course Name  | Progress |
+| ------------- | ------------- |
+| [Explain the basics of Linux kernel](http://learnlinuxconcepts.blogspot.com/2014/03/explain-basics-of-linux-kernel.html) | :x:  |
+| [Kernel Space and User Space](http://learnlinuxconcepts.blogspot.com/2014/02/kernel-space-and-user-space.html)  | :x:  |
+| [Linux Kernel Process Management](http://learnlinuxconcepts.blogspot.com/2014/03/process-management.html) | :x:  |
+| [Linux Addressing](http://learnlinuxconcepts.blogspot.com/2014/02/linux-addressing.html) | :heavy_check_mark: |
+| [Linux Kernel Memory Management](http://learnlinuxconcepts.blogspot.com/2014/02/linux-memory-management.html) | :x:  |
+| [STACK AND HEAP](http://learnlinuxconcepts.blogspot.com/2014/02/stack-and-heap.html)  | :x:  |
+| [Paging and Segmentation](http://learnlinuxconcepts.blogspot.com/2014/02/paging-and-segmentation.html) | :x:  |
+| [Linux Kernel System Calls](http://learnlinuxconcepts.blogspot.com/2014/02/system-calls.html) | :x: |
+| [The Virtual Filesystem](http://learnlinuxconcepts.blogspot.com/2014/10/the-virtual-filesystem.html) | :x:  |
+| [Concurrency and Race Conditions](http://learnlinuxconcepts.blogspot.com/2014/07/concurrency-and-race-conditions.html)  | :x:  |
+| [Memory Leak](https://stackoverflow.com/questions/312069/the-best-memory-leak-definition) | :x:  |
+| [What is a kernel Panic?](http://learnlinuxconcepts.blogspot.com/2014/07/what-is-kernel-panic.html) | :x: |
 
 ### Troubleshooting
 
-* [Linux troubleshooting tools](https://syedali.net/2013/08/20/linux-troubleshooting-tools)
-* [Linux Performance Analysis in 60,000 Milliseconds](https://medium.com/netflix-techblog/linux-performance-analysis-in-60-000-milliseconds-accc10403c55)
+| Course Name  | Progress |
+| ------------- | ------------- |
+| [Linux troubleshooting tools](https://syedali.net/2013/08/20/linux-troubleshooting-tools) | :x:  |
+| [Linux Performance Analysis in 60,000 Milliseconds](https://medium.com/netflix-techblog/linux-performance-analysis-in-60-000-milliseconds-accc10403c55)  | :x:  |
 
 ## Networking
 
-* [Network protocols for anyone who knows a programming language](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147)
-* [Introduction to Linux interfaces for virtual networking](https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking)
-* [Multi-tier load-balancing with Linux](https://vincent.bernat.ch/en/blog/2018-multi-tier-loadbalancer)
-* [Introduction to modern network load balancing and proxying](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236)
-* [Load Balancing Algorithms](https://syedali.net/2013/08/22/load-balancing-algorithms)
+| Course Name  | Progress |
+| ------------- | ------------- |
+| [Network protocols for anyone who knows a programming language](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147) | :x:  |
+| [Introduction to Linux interfaces for virtual networking](https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking)  | :x:  |
+| [Multi-tier load-balancing with Linux](https://vincent.bernat.ch/en/blog/2018-multi-tier-loadbalancer) | :x:  |
+| [Introduction to modern network load balancing and proxying](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236)  | :x:  |
+| [Load Balancing Algorithms](https://syedali.net/2013/08/22/load-balancing-algorithms) | :x:  |
 
 ## Containers
 
