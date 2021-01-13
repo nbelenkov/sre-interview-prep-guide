@@ -36,7 +36,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 
 | Course Name  | Progress |
 | ------------- | ------------- |
-| [Explain the basics of Linux kernel](http://learnlinuxconcepts.blogspot.com/2014/03/explain-basics-of-linux-kernel.html) | :x:  |
+| [Explain the basics of Linux kernel](http://learnlinuxconcepts.blogspot.com/2014/03/explain-basics-of-linux-kernel.html) | :heavy_check_mark:  |
 | [Kernel Space and User Space](http://learnlinuxconcepts.blogspot.com/2014/02/kernel-space-and-user-space.html)  | :x:  |
 | [Linux Kernel Process Management](http://learnlinuxconcepts.blogspot.com/2014/03/process-management.html) | :x:  |
 | [Linux Addressing](http://learnlinuxconcepts.blogspot.com/2014/02/linux-addressing.html) | :x: |
