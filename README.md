@@ -25,7 +25,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 
 | Course Name  | Progress |
 | ------------- | ------------- |
-| [Understanding Inodes](https://syedali.net/2015/02/08/understanding-inodes) | :x:  |
+| [Understanding Inodes](https://syedali.net/2015/02/08/understanding-inodes) | :heavy_check_mark:  |
 | [Understand UNIX / Linux Inodes Basics with Examples](https://www.thegeekstuff.com/2012/01/linux-inodes)  | :x:  |
 | [Understanding proc filesystem](https://syedali.net/2013/08/20/understanding-proc-filesystem) | :x:  |
 | [Common Mount Options](https://syedali.net/2015/01/06/common-mount-options) | :x: |
@@ -37,7 +37,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 | Course Name  | Progress |
 | ------------- | ------------- |
 | [Explain the basics of Linux kernel](http://learnlinuxconcepts.blogspot.com/2014/03/explain-basics-of-linux-kernel.html) | :heavy_check_mark:  |
-| [Kernel Space and User Space](http://learnlinuxconcepts.blogspot.com/2014/02/kernel-space-and-user-space.html)  | :x:  |
+| [Kernel Space and User Space](http://learnlinuxconcepts.blogspot.com/2014/02/kernel-space-and-user-space.html)  | :heavy_check_mark:  |
 | [Linux Kernel Process Management](http://learnlinuxconcepts.blogspot.com/2014/03/process-management.html) | :x:  |
 | [Linux Addressing](http://learnlinuxconcepts.blogspot.com/2014/02/linux-addressing.html) | :x: |
 | [Linux Kernel Memory Management](http://learnlinuxconcepts.blogspot.com/2014/02/linux-memory-management.html) | :x:  |
